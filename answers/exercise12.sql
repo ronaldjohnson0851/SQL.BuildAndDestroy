@@ -1,0 +1,1 @@
+ALTER TABLE Users CHANGE COLUMN MiddleName Initial VARCHAR(64);
